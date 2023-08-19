@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/behzod ahmedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behzod ahmedov" height="30" width="40" /></a>
 <a href="https://fb.com/bexzod.ahmedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bexzod.ahmedov" height="30" width="40" /></a>
 <a href="https://instagram.com/___finn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___finn__" height="30" width="40" /></a>
-<a href="https://t.me/DrFinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___finn__" height="30" width="40" /></a>
+<a href="https://t.me/DrFinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="@DrFinn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
